@@ -19,3 +19,6 @@ uvicorn==0.18.3
 torch==2.0.1
 torchvision==0.15.2
 streamlit-chat
+pydantic==1.9.0
+# Include other dependencies here
+
